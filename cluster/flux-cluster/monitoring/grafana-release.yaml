@@ -23,7 +23,7 @@ spec:
       tag: latest
     service:
       type: LoadBalancer
-      port: 3015
+      port: 3000
     persistence:
       enabled: true
       size: 1Gi
